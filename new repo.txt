@@ -1,0 +1,6 @@
+new repo
+clone repo
+create file
+add file
+commit file
+push file
